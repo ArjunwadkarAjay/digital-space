@@ -26,7 +26,7 @@ const whenExternalScripts = (items = []) =>
 
 export default defineConfig({
   site: 'https://ArjunwadkarAjay.github.io',
-  base: 'ArjunwadkarAjay',
+  base: '/ajayarjunwadkar',
 
   output: 'static',
 
